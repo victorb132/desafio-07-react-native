@@ -12,6 +12,7 @@ export const Product = styled.View`
   margin: 15px;
   border-radius: 4px;
   width: 220px;
+  margin-top: 150px;
 `;
 
 export const ProductImage = styled.Image`
